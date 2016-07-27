@@ -8,7 +8,7 @@ import org.apache.spark.SparkContext
 		Variable: HADOOP_HOME
 		Value: <>/bin/winutils.exe - just give <>
  * 
- * 
+ * author : gkhare
  */
 object WordCount {
   
