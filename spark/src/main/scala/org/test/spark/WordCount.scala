@@ -7,6 +7,8 @@ import org.apache.spark.SparkContext
  * Eclipse->Debug/Run Configurations -> Environment (tab) -> and added
 		Variable: HADOOP_HOME
 		Value: <>/bin/winutils.exe - just give <>
+		Important links : https://www.youtube.com/watch?v=aB4-RD_MMf0
+		http://www.devinline.com/2016/01/apache-spark-setup-in-eclipse-scala-ide.html
  * 
  * author : gkhare
  */
